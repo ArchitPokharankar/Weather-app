@@ -14,7 +14,7 @@ An easy-to-use Android weather application that fetches real-time weather data b
 - 🔄 Refresh button to update the weather
 
 ## 📸 Screenshots
-
+![Weather App Screenshot](https://github.com/ArchitPokharankar/Weather-app/blob/main/Weather.jpeg?raw=true)
 
 
 ## 🛠️ Built With
